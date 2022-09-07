@@ -3,5 +3,7 @@ import Playground from './components/Playground.vue';
 </script>
 
 <template>
-  <Playground />
+  <div class="m-5">
+    <Playground />
+  </div>
 </template>
