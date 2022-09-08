@@ -1,6 +1,6 @@
 {
-  "name": "@vuepic/vue-datepicker-playground",
-  "homepage": "vue3datepicker.com",
+  "name": "vue-tailwind-datepicker-playground",
+  "homepage": "vue-tailwind-datepicker.com",
   "private": true,
   "version": "0.0.0",
   "scripts": {

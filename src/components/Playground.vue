@@ -4,5 +4,5 @@ const dateValue = ref('');
 </script>
 
 <template>
-  <vue-tailwind-datepicker v-model="dateValue" />
+  <vue-tailwind-datepicker i18n="fr" v-model="dateValue" />
 </template>
