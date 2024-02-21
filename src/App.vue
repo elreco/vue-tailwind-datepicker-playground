@@ -1,4 +1,5 @@
 <script setup>
+import 'dayjs/locale/fr';
 import Playground from './components/Playground.vue';
 </script>
 

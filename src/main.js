@@ -1,6 +1,5 @@
 import { createApp } from 'vue';
 import App from './App.vue';
-import 'dayjs/locale/fr';
 import VueTailwindDatepicker from 'vue-tailwind-datepicker';
 import './index.css';
 
